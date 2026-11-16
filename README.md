@@ -16,7 +16,7 @@ JDBC_FlightManager uses flight-arrival data from `arrived_flights.csv` and store
 | Student B | [Mayar Serhan] | [325475440] | [Mayar.Serhan@braude.ac.il] |
 
 - **Group Number:** [20/9]
-- **GitHub Repository URL:** [Paste the repository URL]
+- **GitHub Repository URL:** [JDBC_FlightManager](https://github.com/Am-Sireen/JDBC_FlightManager)
 
 ## 3. Technology Stack
 
@@ -37,8 +37,6 @@ Storing the origin city in each arrival record would repeat the same route infor
 - `Arrivals.flight_number` references `FlightRoutes.flight_number` with `ON DELETE CASCADE`.
 
 ## 5. Independent AI Prompt (Part 4 - FlightViewer.java)
-
-```Replace the entire selected content of FlightViewer.java with a complete Java class named FlightViewer. Include the imports and a main method. Leave the other project files unchanged.
 
 ```text
 Replace the entire selected content of FlightViewer.java with a complete Java class named FlightViewer. Include the imports and a main method. Leave the other project files unchanged.
